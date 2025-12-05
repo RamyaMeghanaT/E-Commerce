@@ -1,0 +1,79 @@
+*
+{
+    font-family: sans-serif;
+}
+
+/* navbar BG color */
+/* .navbar
+{
+    background-color: rgb(192, 83, 77);
+} */
+
+.nav-item .nav-link
+{
+    color: white;
+    font-weight: bold
+}
+
+/* navbar button "Search" */
+.d-flex .btn
+{
+    background-color: rgb(242, 164, 138);
+}
+
+/* Navbar Position Left */
+.navbar-nav{
+    position: relative;
+    right:0.5%;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    vertical-align: middle;
+}
+
+/* BG Image */
+#home
+{
+    background-image: url("./9760835.jpg");
+    background-position: center;
+    width: 100vw;
+    height: 70vh;
+    background-size: cover;
+}
+
+
+
+/* Title heading color */
+.title h1
+{
+    color: rgb(10, 1, 11);
+    font-size: 50px;
+    font-weight: bold;
+}
+
+
+.Abouthed h2
+{
+    color: rgb(61, 61, 196);
+    font-weight: 25;
+}
+
+.d-block
+{
+    aspect-ratio: 3/2;
+}
+
+/* Payment */
+.input-group .input-group-text
+{
+    background-color: rgb(222, 134, 104);
+    color: white;
+    border: none;
+}
+
+/* Footer */
+#footer
+{
+    background-color: rgb(174, 68, 62);
+    color: white;
+}
